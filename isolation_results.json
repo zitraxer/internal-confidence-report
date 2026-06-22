@@ -1,0 +1,104 @@
+[
+  {
+    "model": "Falcon3-1B",
+    "capErr": 29,
+    "atomErr": 25,
+    "probe_cap2atom": 0.4149333333333334,
+    "probe_atom2cap": 0.6169950738916256,
+    "text_cross": 0.4752896551724137,
+    "skipped": false
+  },
+  {
+    "model": "Gemma-2-2B",
+    "skipped": true,
+    "capErr": 3,
+    "atomErr": 4
+  },
+  {
+    "model": "Granite-3.1-2B",
+    "capErr": 4,
+    "atomErr": 16,
+    "probe_cap2atom": 0.4970238095238096,
+    "probe_atom2cap": 0.42592592592592593,
+    "text_cross": 0.4928488756613757,
+    "skipped": false
+  },
+  {
+    "model": "Llama-3.2-1B",
+    "capErr": 10,
+    "atomErr": 49,
+    "probe_cap2atom": 0.4269707883153262,
+    "probe_atom2cap": 0.5,
+    "text_cross": 0.586580232092837,
+    "skipped": false
+  },
+  {
+    "model": "Llama-3.2-3B",
+    "capErr": 4,
+    "atomErr": 4,
+    "probe_cap2atom": 0.4296875,
+    "probe_atom2cap": 0.2623456790123457,
+    "text_cross": 0.3579282407407407,
+    "skipped": false
+  },
+  {
+    "model": "OLMo-2-1B",
+    "capErr": 21,
+    "atomErr": 42,
+    "probe_cap2atom": 0.5763546798029556,
+    "probe_atom2cap": 0.47321428571428575,
+    "text_cross": 0.40873871100164205,
+    "skipped": false
+  },
+  {
+    "model": "Phi-3.5-mini",
+    "skipped": true,
+    "capErr": 6,
+    "atomErr": 1
+  },
+  {
+    "model": "Qwen2.5-0.5B",
+    "capErr": 33,
+    "atomErr": 86,
+    "probe_cap2atom": 0.37790697674418605,
+    "probe_atom2cap": 0.548951048951049,
+    "text_cross": 0.4481293899898551,
+    "skipped": false
+  },
+  {
+    "model": "Qwen2.5-1.5B",
+    "capErr": 5,
+    "atomErr": 10,
+    "probe_cap2atom": 0.5277777777777778,
+    "probe_atom2cap": 0.5725,
+    "text_cross": 0.33499999999999996,
+    "skipped": false
+  },
+  {
+    "model": "SmolLM2-1.7B",
+    "capErr": 19,
+    "atomErr": 86,
+    "probe_cap2atom": 0.48671096345514947,
+    "probe_atom2cap": 0.6228070175438597,
+    "text_cross": 0.4440322529367817,
+    "skipped": false
+  },
+  {
+    "model": "SmolLM2-360M",
+    "capErr": 36,
+    "atomErr": 20,
+    "probe_cap2atom": 0.45625,
+    "probe_atom2cap": 0.5028344671201814,
+    "text_cross": 0.5280385487528345,
+    "skipped": false
+  },
+  {
+    "model": "StableLM-2-1.6B",
+    "capErr": 12,
+    "atomErr": 79,
+    "probe_cap2atom": 0.5702230259192285,
+    "probe_atom2cap": 0.48059360730593603,
+    "text_cross": 0.4493784422040014,
+    "skipped": false
+  }
+]

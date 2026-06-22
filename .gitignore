@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+conf12_*.npz
+conf_*.npz
+*.npy
+.ipynb_checkpoints/

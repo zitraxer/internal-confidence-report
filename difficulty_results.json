@@ -1,0 +1,150 @@
+[
+  {
+    "model": "Falcon3-1B",
+    "err": 54,
+    "diff_only": 0.6897794741306191,
+    "diff_plus_token": 0.7965790217698615,
+    "diff_plus_probe": 0.8413910093299407,
+    "token_increment": 0.10679954763924238,
+    "token_inc_ci": [
+      0.03095667232117622,
+      0.18667832909245127
+    ],
+    "token_adds": "yes",
+    "diff_plus_verbal": 0.7531806615776082
+  },
+  {
+    "model": "Gemma-2-2B",
+    "skipped": true
+  },
+  {
+    "model": "Granite-3.1-2B",
+    "err": 20,
+    "diff_only": 0.7877272727272727,
+    "diff_plus_token": 0.8451515151515153,
+    "diff_plus_probe": 0.806969696969697,
+    "token_increment": 0.0574242424242426,
+    "token_inc_ci": [
+      0.015905303030303106,
+      0.10318181818181815
+    ],
+    "token_adds": "yes",
+    "diff_plus_verbal": 0.7877272727272727
+  },
+  {
+    "model": "Llama-3.2-1B",
+    "err": 59,
+    "diff_only": 0.810061877858488,
+    "diff_plus_token": 0.8520312079634113,
+    "diff_plus_probe": 0.8258003766478342,
+    "token_increment": 0.04196933010492321,
+    "token_inc_ci": [
+      -0.0038404627387678076,
+      0.08797417271993535
+    ],
+    "token_adds": "no",
+    "diff_plus_verbal": 0.8096583266074792
+  },
+  {
+    "model": "Llama-3.2-3B",
+    "err": 8,
+    "diff_only": 0.8541666666666667,
+    "diff_plus_token": 0.8771186440677967,
+    "diff_plus_probe": 0.8495762711864406,
+    "token_increment": 0.022951977401129975,
+    "token_inc_ci": [
+      -0.08580508474576265,
+      0.12115995762711843
+    ],
+    "token_adds": "no",
+    "diff_plus_verbal": 0.8562853107344632
+  },
+  {
+    "model": "OLMo-2-1B",
+    "err": 63,
+    "diff_only": 0.7531225604996098,
+    "diff_plus_token": 0.8358053603955243,
+    "diff_plus_probe": 0.7916991933385376,
+    "token_increment": 0.08268279989591454,
+    "token_inc_ci": [
+      0.021207390059849063,
+      0.1443533697632059
+    ],
+    "token_adds": "yes",
+    "diff_plus_verbal": 0.7531225604996098
+  },
+  {
+    "model": "Phi-3.5-mini",
+    "skipped": true
+  },
+  {
+    "model": "Qwen2.5-0.5B",
+    "err": 119,
+    "diff_only": 0.7727272727272727,
+    "diff_plus_token": 0.7888973771326714,
+    "diff_plus_probe": 0.8358798064680417,
+    "token_increment": 0.016170104405398678,
+    "token_inc_ci": [
+      -0.007962503183091354,
+      0.04138018843901192
+    ],
+    "token_adds": "no",
+    "diff_plus_verbal": 0.7853959765724472
+  },
+  {
+    "model": "Qwen2.5-1.5B",
+    "err": 15,
+    "diff_only": 0.8784313725490197,
+    "diff_plus_token": 0.932156862745098,
+    "diff_plus_probe": 0.9007843137254903,
+    "token_increment": 0.05372549019607831,
+    "token_inc_ci": [
+      -0.0031421568627452404,
+      0.12373039215686275
+    ],
+    "token_adds": "no",
+    "diff_plus_verbal": 0.868235294117647
+  },
+  {
+    "model": "SmolLM2-1.7B",
+    "err": 105,
+    "diff_only": 0.8286309523809523,
+    "diff_plus_token": 0.9079761904761905,
+    "diff_plus_probe": 0.9080952380952383,
+    "token_increment": 0.07934523809523819,
+    "token_inc_ci": [
+      0.03339136904761913,
+      0.12971130952380958
+    ],
+    "token_adds": "yes",
+    "diff_plus_verbal": 0.8422619047619048
+  },
+  {
+    "model": "SmolLM2-360M",
+    "err": 56,
+    "diff_only": 0.4828349944629014,
+    "diff_plus_token": 0.578765227021041,
+    "diff_plus_probe": 0.6490863787375415,
+    "token_increment": 0.09593023255813965,
+    "token_inc_ci": [
+      -0.02669746677740868,
+      0.21602297895902545
+    ],
+    "token_adds": "no",
+    "diff_plus_verbal": 0.6838316722037653
+  },
+  {
+    "model": "StableLM-2-1.6B",
+    "err": 91,
+    "diff_only": 0.8130699088145896,
+    "diff_plus_token": 0.8465045592705167,
+    "diff_plus_probe": 0.8956043956043955,
+    "token_increment": 0.033434650455927084,
+    "token_inc_ci": [
+      0.005785305120411577,
+      0.060031856441431
+    ],
+    "token_adds": "yes",
+    "diff_plus_verbal": 0.8824526537292494
+  }
+]

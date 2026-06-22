@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Deconfounding hidden-state confidence probes across 12 small language models"
+abstract: >-
+  A laptop-scale reproduction and stress-test of the 'language models know what they
+  know' line of work across 12 small open-weight model families, with calibration,
+  selective-prediction, and red-teaming analyses, plus cautionary methods notes.
+authors:
+  - name: "zitraxer"
+date-released: "2026-06-22"
+license: MIT
+# After you push to GitHub and make a release, create a Zenodo archive of the repo
+# to mint a DOI, then paste it here so the work becomes formally citable:
+# doi: "10.5281/zenodo.XXXXXXX"
+url: "https://github.com/zitraxer/internal-confidence-report"
+keywords:
+  - interpretability
+  - calibration
+  - linear-probes
+  - language-models

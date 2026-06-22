@@ -1,0 +1,42 @@
+[
+  {
+    "model": "SmolLM2-1.7B",
+    "n": 185,
+    "err": 95,
+    "internal_token": 0.8001169590643274,
+    "verbal_pct": 0.7273684210526316,
+    "verbal_Ptrue": 0.7555555555555555,
+    "verbal_categorical": 0.4997076023391813,
+    "verbal_yesno": 0.8035087719298246
+  },
+  {
+    "model": "StableLM-2-1.6B",
+    "n": 185,
+    "err": 91,
+    "internal_token": 0.7652560205751694,
+    "verbal_pct": 0.5893149403787701,
+    "verbal_Ptrue": 0.5,
+    "verbal_categorical": 0.5051437923778349,
+    "verbal_yesno": 0.5002338087444471
+  },
+  {
+    "model": "Qwen2.5-0.5B",
+    "n": 185,
+    "err": 96,
+    "internal_token": 0.755500936329588,
+    "verbal_pct": 0.4238647003745319,
+    "verbal_Ptrue": 0.6108380149812733,
+    "verbal_categorical": 0.5069054307116105,
+    "verbal_yesno": 0.5260416666666667
+  },
+  {
+    "model": "OLMo-2-1B",
+    "n": 185,
+    "err": 60,
+    "internal_token": 0.8181333333333334,
+    "verbal_pct": 0.5,
+    "verbal_Ptrue": 0.6068666666666667,
+    "verbal_categorical": 0.4764666666666667,
+    "verbal_yesno": 0.6521333333333335
+  }
+]
